@@ -27,7 +27,7 @@
     "format:write": "npx prettier --write \"src/**/*.{js,json,ts,less}\""
   },
   "dependencies": {
-    "@achingbrain/ssdp": "^4.0.1",
+    "@achingbrain/ssdp": "^4.0.2",
     "@sentry/electron": "^4.2.0",
     "@sentry/integrations": "^7.31.1",
     "adm-zip": "^0.4.16",
